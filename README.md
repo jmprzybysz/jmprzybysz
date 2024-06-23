@@ -1,5 +1,9 @@
-## Hi there 👋
+## Welcome to my profile!
 
+I am a PhD student in the Cherevko group at the Helmholtz Institute Erlangen-Nürnberg für Erneubare Energien (part of Forschungszentrum Jülich).
+My work revolves around high-throughput and autonomous research for hydrogen technologies. 
+
+If you are looking for my published research data, then you have come to the right place! 
 <!--
 **jmprzybysz/jmprzybysz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
